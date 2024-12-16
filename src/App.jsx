@@ -33,7 +33,7 @@ function App() {
         <Col md= {12}>
         <Routes>
         <Route path="/" element= {<Login />}/>
-          <Route path="Login" element= {<Login />}/>
+          <Route path="/login" element= {<Login />}/>
           <Route path="Dashboard" element= {<Dashboard />}/>
           <Route path="Logbook" element= {<Logbook />}/>
         </Routes>
