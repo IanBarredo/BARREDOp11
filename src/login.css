@@ -1,0 +1,18 @@
+
+body {
+    background-image: url('/body.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+
+ .card-body {
+    background-image: url('logo.jpg');
+ }
+
+ 
+.navbar {
+    background-color: rgba(128, 128, 128, 0.7); /* Gray with 70% opacity */
+    backdrop-filter: blur(10px); /* Optional: Adds a blur effect */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2); /* Optional: Adds a subtle border */
+  }
